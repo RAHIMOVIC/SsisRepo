@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="BSRW31098"
   DTS:CreatorName="BOURSORAMA\akhiari"
-  DTS:DTSID="{55556A73-591B-4FEB-AE1F-1D098B1CFB96}"
+  DTS:DTSID="{E60CEABA-C142-47EF-9E39-66BD1072B515}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="12.0.2430.0"
   DTS:LocaleID="1033"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{6E7F1AD0-9437-4763-899A-D2CBAFA7AAEC}">
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{A5D2CF15-EE54-4506-AA1E-F3D72DA804B6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -21,7 +21,7 @@
       DTS:refId="Package\Tâche d'exécution de requêtes SQL"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Tâche d'exécution de requêtes SQL"
-      DTS:DTSID="{92A9F23B-86C6-48A9-B873-45AE940C5FA8}"
+      DTS:DTSID="{CCFFA70B-8DFE-4F23-91FC-424422B0C271}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Tâche d'exécution de requêtes SQL"
